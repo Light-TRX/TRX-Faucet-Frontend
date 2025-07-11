@@ -1,0 +1,8 @@
+These are real-world Tron + JavaScript examples to learn from:
+
+⭐ TronWeb JS SDK (Official) — Use in your JS to connect wallet/send txns.
+
+⭐ Tron-DApp-Example — Smart contract + frontend template.
+
+⭐ Tron Payment QR Generator Demo — QR generation in JS (you can adapt for TRX URIs).
+
